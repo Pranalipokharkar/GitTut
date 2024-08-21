@@ -15,3 +15,5 @@ echo "Welcome to feature branch"
 
 
 echo "Commit 6"
+
+echo "Bug Branch Commit"
